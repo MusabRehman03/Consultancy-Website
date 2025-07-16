@@ -1,7 +1,7 @@
 
 # CRENOTIVE
 
-**Crenotive** is perfect website template for corporate world. [**Demo**](https://crenotive.netlify.app). It's fast, developer friendly template with reuseable code.
+**Crenotive** is perfect website template for corporate world. [**Demo**](https://consultancy-website-7mcv93rwp-musab-ur-rehmans-projects.vercel.app/). It's fast, developer friendly template with reuseable code.
 
 ### Requirements
 Node v14.1.1 or higher 
