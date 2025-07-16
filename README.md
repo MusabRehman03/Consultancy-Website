@@ -24,6 +24,6 @@ Go to the root folder of project where index.html file lives. And run this comma
 
 For more information about `serve` visit there [documentation](https://serve.org)
 
-### Lisente
 
-MIT, You can use this template. But you must give me credit in the footer section.
+
+
